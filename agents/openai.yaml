@@ -1,0 +1,7 @@
+interface:
+  display_name: "Academic Paper Intelligence"
+  short_description: "Parse papers into evidence-grounded research intelligence"
+  default_prompt: "Use $academic-paper-intelligence to analyze this paper and produce an evidence-grounded research dossier."
+
+policy:
+  allow_implicit_invocation: true
